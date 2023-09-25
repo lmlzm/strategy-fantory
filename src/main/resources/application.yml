@@ -1,0 +1,6 @@
+
+user:
+  loginMethod:
+    account: accountLogin
+    sms: smsLogin
+    qq: telcentLogin
